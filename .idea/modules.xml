@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BuilderPattern/BuilderPattern.iml" filepath="$PROJECT_DIR$/BuilderPattern/BuilderPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DecoratorPattern/DecoratorPattern.iml" filepath="$PROJECT_DIR$/DecoratorPattern/DecoratorPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignRule/DesignRule.iml" filepath="$PROJECT_DIR$/DesignRule/DesignRule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObserverPattern/ObserverPattern.iml" filepath="$PROJECT_DIR$/ObserverPattern/ObserverPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ResponsibilityPattern/ResponsibilityPattern.iml" filepath="$PROJECT_DIR$/ResponsibilityPattern/ResponsibilityPattern.iml" />
     </modules>
   </component>
 </project>
